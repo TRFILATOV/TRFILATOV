@@ -1,5 +1,6 @@
 # Филатов Михаил Олегович
-![20221016_170716.jpg](https://disk.yandex.ru/i/V-z7ru1-499rDA)
+Портфолио:
+![](https://disk.yandex.ru/i/V-z7ru1-499rDA](https://disk.yandex.ru/client/disk/Фотография.ФМО?idApp=client&dialog=slider&idDialog=%2Fdisk%2FФотография.ФМО%2F20221016_170716.jpg)
 
 ## Главный инженер ОСП СПб ГУП "Горэлектротранс" "Совмещенный трамвайно-троллейбусный парк"
 
